@@ -2,7 +2,8 @@
 Implementation of popular' JakeWharton's library, ButterKnife in Android X
 
 ## About
-Proyek aplikasi ini merupakan penerapan sederhana dari Butterknife versi terbaru pada AndroidX
+Proyek aplikasi ini merupakan penerapan sederhana dari Butterknife versi terbaru pada AndroidX. Untuk tutorial bisa dilihat di blog medium 
+[TutorialButterknife](https://medium.com/@roningrum/tutorial-menambahkan-butterknife-library-di-androidx-a949fc41f034)
 
 
 ## Requirement
